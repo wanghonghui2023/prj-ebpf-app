@@ -37,4 +37,4 @@ email：honghui.wang@ucas.com.cn
 
 # 【预期目标】
 
-理解ebpf原理，联系实用ebpf开发实用功能。
+理解ebpf原理，练习使用ebpf开发实用功能。
